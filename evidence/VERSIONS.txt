@@ -1,0 +1,9 @@
+repo: https://github.com/Aiven-Open/journalpump
+vulnerable_tag: 2.4.6
+vulnerable_commit: 3e1b59c8d95c1be8ad536088a389a3f36dec15a2
+tag_date: 2023-12-15
+HEAD_master: 595f047009ba0f0d5263bbf22c4628a23bca1eff
+unreleased_fix_escape_default: dbe51f2affbf0809c254c4280ffe06471d31329d (2026-10-13)
+unreleased_fix_sanitize_headers: 9fb67a46bcbf45efa6dc2bf544b697a20cb8059a (2026-10-19)
+note: master __version__ string is "2.5.0" but no git tag 2.5.0 / 2.5.x exists; latest public tag is 2.4.6
+distinct_from: GHSA-738v-v386-8r6g (integration config plaintext disclosure — different sink/CWE)
